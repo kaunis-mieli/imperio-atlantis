@@ -1,5 +1,5 @@
 # Atlantis
-## Installation
+## CI/CD
 TBD
 ## Usage
 Calling endpoint /Fibonacci/{n} - i.e. localhost:port/Fibonacci/5 - should return 5th Fibonacci sequence member.
